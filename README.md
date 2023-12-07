@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi! I'm Hugo, a Biologist passionate about algorithms in computational biology. I'm currently a master's degree student in Computational Modeling at the National Laboratory for Scientific Computing (LNCC, Brazil). 
+
+I have pre
+
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Oliveira-Hugo)](https://github.com/anuraghazra/github-readme-stats)
 

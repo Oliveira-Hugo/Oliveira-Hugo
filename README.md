@@ -4,11 +4,11 @@
 - Previous research experience in genomics.
 - Current interests include Phylogenomics, High-Performance Computing (HPC), and Scientific Workflows.
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Oliveira-Hugo)](https://github.com/anuraghazra/github-readme-stats)
+
 **Technologies & Tools**
 - Experience with Julia, C, and R.
 - Interest in Python and Docker.
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Oliveira-Hugo)](https://github.com/anuraghazra/github-readme-stats)
 
 **You can find me on:**
 

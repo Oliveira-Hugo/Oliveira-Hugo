@@ -11,6 +11,7 @@
 <a href = "mailto:hugodpaulaoliveira@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 [![Lattes](https://img.shields.io/badge/Lattes%20Curriculum-007ACC?style=for-the-badge&logo=book&logoColor=white)]([https://www.lattes.cnpq.br/](https://lattes.cnpq.br/4603193130523804))
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-YourName-brightgreen?style=for-the-badge&logo=researchgate)](https://www.researchgate.net/profile/Hugo-De-Paula-Oliveira/research)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-253858?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Hugo-De-Paula-Oliveira/research)
 
 <!--
 **Oliveira-Hugo/Oliveira-Hugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -7,8 +7,11 @@
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Oliveira-Hugo)](https://github.com/anuraghazra/github-readme-stats)
 
 🌐 **Don't hesitate in contacting me!:**
+
 <a href = "mailto:hugodpaulaoliveira@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-- [Gmail](mailto:hugodpaulaoliveira@gmail.com)
+[![Lattes Curriculum](https://img.shields.io/badge/Lattes%20Curriculum-007ACC?style=for-the-badge&logo=book&logoColor=white)](https://www.lattes.cnpq.br/)
+
+
 - [Lattes](https://lattes.cnpq.br/4603193130523804)
 
 <!--

@@ -7,7 +7,8 @@
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Oliveira-Hugo)](https://github.com/anuraghazra/github-readme-stats)
 
 🌐 **Don't hesitate in contacting me!:**
-
+- [Gmail](mailto:your.hugodpaulaoliveira@gmail.com)
+- [Lattes](https://lattes.cnpq.br/4603193130523804)
 
 <!--
 **Oliveira-Hugo/Oliveira-Hugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

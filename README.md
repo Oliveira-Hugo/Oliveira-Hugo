@@ -13,7 +13,7 @@
 **You can find me on:**
 
 <a href = "mailto:hugodpaulaoliveira@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-[![Lattes](https://img.shields.io/badge/Lattes-007ACC?style=for-the-badge&logo=book&logoColor=white)]([https://www.lattes.cnpq.br/](https://lattes.cnpq.br/4603193130523804))
+[![Lattes](https://img.shields.io/badge/Lattes-007ACC?style=for-the-badge&logo=book&logoColor=white)](https://lattes.cnpq.br/4603193130523804)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-253858?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Hugo-De-Paula-Oliveira/research)
 
 <!--

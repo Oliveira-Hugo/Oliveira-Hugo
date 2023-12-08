@@ -6,10 +6,6 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Oliveira-Hugo)](https://github.com/anuraghazra/github-readme-stats)
 
-**Technologies & Tools**
-- Experience with Julia, C, and R.
-- Interest in Python and Docker.
-
 **You can find me on:**
 
 <a href = "mailto:hugodpaulaoliveira@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

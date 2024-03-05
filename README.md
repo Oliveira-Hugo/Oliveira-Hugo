@@ -2,7 +2,7 @@
 
 **Research Focus:**
 - Previous research experience in genomics.
-- Current interests include Phylogenomics, High-Performance Computing (HPC), and Scientific Workflows.
+- Current interests include Phylogenomics, Molecular evolution, HPC, and Scientific Workflows.
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Oliveira-Hugo)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -1,4 +1,4 @@
-### Hi! I'm Hugo, a Biologist passionate about algorithms in computational biology. I'm currently a master's degree student in Computational Modeling at the National Laboratory for Scientific Computing (LNCC, Brazil). 
+### Hi! I'm Hugo, a Biologist currently pursuing a master's degree on Computational Modeling at the National Laboratory for Scientific Computing (LNCC, Brazil). 
 
 **Research Focus:**
 - Previous research experience in genomics.
